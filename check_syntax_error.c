@@ -1,4 +1,4 @@
-#include "holberton.h"
+include "holberton.h"
 
 /**
  * repeated_char - counts the repetitions of a char
