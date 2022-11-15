@@ -1,4 +1,4 @@
-#ifndef _HOLBERTON_
+ifndef _HOLBERTON_
 #define _HOLBERTON_
 
 #include <stdio.h>
