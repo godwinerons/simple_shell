@@ -1,4 +1,4 @@
-include "holberton.h"
+#include "holberton.h"
 
 /**
  * get_len - Get the lenght of a number.
@@ -97,3 +97,4 @@ int _atoi(char *s)
 		m /= 10;
 	}
 	return (oi * pn);
+}
