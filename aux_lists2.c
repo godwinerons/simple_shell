@@ -1,4 +1,4 @@
-include "holberton.h"
+#include "holberton.h"
 
 /**
  * add_rvar_node - adds a variable at the end
@@ -58,3 +58,4 @@ void free_rvar_list(r_var **head)
 		}
 		*head = NULL;
 	}
+}
